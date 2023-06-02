@@ -1,6 +1,6 @@
 # Projeto App Finanças
 
-</p>Este é o projeto "App Finanças" desenvolvido através do curso "Sujeito Programador". O objetivo deste projeto é criar um aplicativo de finanças pessoais onde se possa ter um controle de despesas e lucors, criado utilizando tecnologias modernas.</p>
+</p>Este é o projeto "App Finanças" desenvolvido através do curso "Sujeito Programador". O objetivo deste projeto é criar um aplicativo de finanças pessoais onde se possa ter um controle de despesas e lucros, criado utilizando tecnologias modernas.</p>
 
 ## Tecnologias Utilizadas
 
